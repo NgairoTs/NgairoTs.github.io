@@ -1,0 +1,53 @@
+/head>
+
+  <body>
+
+    <header>
+      <nav>
+        <h1 id="Ngairo">Ōku</h1>
+        <h2 id="blogtitle">rangitaki</h2>
+        <ul>
+          <li><a href="index.html">HOME</a></li>
+          <li><a href="#">ABOUT</a></li>
+          <li><a href="#">BLOGS</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <div class="white">
+      <h1 class="centre">Sprint 2: Identity and Values.</h1>
+      <h3>Ko wai au, WHAT DO I BRING TO THIS LEARNING JOURNEY?</h3> 
+   </div> 
+
+   <div class="position">
+     <h2>HOW CULTURE INFLUENCES MY VALUES AND IDENTITY</h2>
+     <p>My culture has defined me as a person.</p>
+     <p>Growing up in with a background of Kohanga reo, bilingual schools and attending a Wharekura, I have learnt valuas of culture a long the way and able to thrieve in both Te Ao Maori and the colonised world.</p>
+     <p>Mauraakau has given me deceplen. Kapa haka and sailing has taught me to work as a team player and givien me the leadership skills needed to atain the foundation title of Head boy of my Wharekura.</p>
+
+   </div>
+
+   <div class="position">
+    <h2>MY STRENGTHS AND WEAKNESSES</h2>
+    <p>I am well driven, hard working and I a quick learner. Even though I have thse strengths sometimes I can be slowed down by being easily overwhelmed with other things going on around me</p>
+    <p>I sometimes find it hard to focus if I am overwhelmed.</p>
+  </div>
+
+   <div class="position">
+     <h2>WHICH STRENGTHS WILL HELP IN MY LEARNING JOURNEY</h2>
+     <p>My drive, I trust will be a great strength.</p>
+     <p>The hopes to land a caare with this sector to better my people and help give our youth the opportunity to grow in this sector as well</p>
+  <p> "Ko te taiohi, ngā Rangatira o apopo" in translation "the youth are our next chiefs"</p>
+    </div>
+
+   <div class="position">
+     <h2>EXAMPLE WHERE THERE WAS TENSION IN A WORK SETTING</h2>
+     <p>With the current situation of covid, Our staff team has dropped and our head chef is leaving. Having leardership skills and people skills I have conviced one of our chef to step up and take the next step into becoming our new head chef</p>
+     <p>To active this I will help her in anyway I can.</p>
+    
+   </div>
+
+  </body>
+
+
+</html>
