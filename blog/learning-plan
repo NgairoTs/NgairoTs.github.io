@@ -6,7 +6,8 @@
 
   <body>
 
-    <header>
+    <header> 
+      <link href="../styles/main.css" rel="stylesheet" type="text/css">
       <nav>
         <h1 id="Ngairo">Ngairo</h1>
         <h2 id="blogtitle">Blogs</h2>
