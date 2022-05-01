@@ -1,4 +1,7 @@
 
+  html {
+    min-height: 100%;
+ }
   body {
     background: url("https://www.bayofplentynz.com/assets/Uploads/Pou-carvings-on-The-Strand-Tauranga-v2.jpg")
   }
@@ -32,4 +35,9 @@ color: black;
 p3 {display: inline-box;
   background-color: white;
 color: black;}
-ul {font-style: inherit;}
+
+body {background-size: cover;
+background-repeat: no-repeat;
+background-position: center center; }
+
+
