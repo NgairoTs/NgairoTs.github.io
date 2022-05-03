@@ -17,11 +17,10 @@ h4{ font-family:'Times New Roman', Times, serif;
 p {display:block;
   font-style: italic;
   font-variant-position: normal;
+} 
 
-  img.resize {
-    width:200px;
-    height:40px;
-  }
+#javascript-intro.html
+{ background-color: darkred;
+
+
 }
-
-<input type="button">
