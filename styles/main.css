@@ -40,4 +40,28 @@ body {background-size: cover;
 background-repeat: no-repeat;
 background-position: center center; }
 
+#Emotional.Intelligence.html
+body { background: url("https://www.callcentrehelper.com/images/stories/2019/11/brain-art-760.jpg") }
+p {textstyle: bold;}
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+h1 {text-align: center;
+  color:black;
+  font-family: monospace;
+}
 
+h4{ font-family:'Times New Roman', Times, serif;
+  text-decoration: underline;}
+
+p {display:block;
+  font-style: italic;
+  font-variant-position: normal;
+} 
+
+#javascript-intro.html
+{ background-color: darkred;
+
+}
