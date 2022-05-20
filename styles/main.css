@@ -5,6 +5,7 @@
   body {
     background: url("https://www.bayofplentynz.com/assets/Uploads/Pou-carvings-on-The-Strand-Tauranga-v2.jpg")
   }
+
   h1 {text-align: right;
     color:aliceblue;
     font-family: monospace;
@@ -42,7 +43,7 @@ background-position: center center; }
 
 #Emotional.Intelligence.html
 body { background: url("https://www.callcentrehelper.com/images/stories/2019/11/brain-art-760.jpg") }
-p {textstyle: bold;}
+p {text-style: bold;}
 body {
   background-size: cover;
   background-repeat: no-repeat;
@@ -65,3 +66,8 @@ p {display:block;
 { background-color: darkred;
 
 }
+
+#problem-solving.html 
+body {background-color: darkred;
+      text-align: center;
+      color: white}
