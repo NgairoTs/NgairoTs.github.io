@@ -2,7 +2,7 @@
   html {
     min-height: 100%;
  }
-  body {
+  #index.html {
     background: url("https://forestfamilynz.files.wordpress.com/2018/09/img-3424.jpg")
   }
 
@@ -72,10 +72,16 @@ body {background-color: darkred;
       text-align: center;
       color: white}
 
-#neuroplasticity.html
-body { background-color: darkgray;
-}
 p {
 color: white;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 border-style: dashed; border-color: black; background-color: black;}
+
+#neuroplasticity.html
+{
+background: url("https://forestfamilynz.files.wordpress.com/2018/09/img-3424.jpg")
+}
+
+#mindset.html
+{
+}
