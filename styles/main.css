@@ -2,7 +2,7 @@
   html {
     min-height: 100%;
  }
-  #index.html {
+  body {
     background: url("https://forestfamilynz.files.wordpress.com/2018/09/img-3424.jpg")
   }
 
@@ -26,7 +26,8 @@ p{display: inline-flexbox;
     
     color: black;
     height: 100px;
-  width: 100px ;}
+  width: 100px ;
+}
 
   p2 {display: inline-box;
   
@@ -80,8 +81,4 @@ border-style: dashed; border-color: black; background-color: black;}
 #neuroplasticity.html
 {
 background: url("https://forestfamilynz.files.wordpress.com/2018/09/img-3424.jpg")
-}
-
-#mindset.html
-{
 }
