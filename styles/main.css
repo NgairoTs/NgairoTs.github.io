@@ -1,3 +1,16 @@
+@media only screen and (max-width: 600px) {
+  body{
+    background-color: darkred;
+    font: 30px;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  body{
+    background-color: darkred;
+    font-size: 80px;
+  }
+}
 
   html {
     min-height: 100%;
@@ -42,7 +55,7 @@ body {background-size: cover;
 background-repeat: no-repeat;
 background-position: center center; }
 
-@media all and (min-width: 480px) and (max-width: 768px) {
+
 #Emotional.Intelligence.html
 body { background: url("https://www.callcentrehelper.com/images/stories/2019/11/brain-art-760.jpg") }
 body {
@@ -50,9 +63,10 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
 }
-h1 {text-align: center;
-  color:black;
-  font-family: monospace;
+h1 
+{text-align: center;
+ color:black;
+ font-family: monospace;
 }
 
 h4{ font-family:'Times New Roman', Times, serif;
@@ -62,19 +76,13 @@ p {display:block;
   font-style: italic;
   font-variant-position: normal;
 } 
-}
-@media all and (max-width: 480px) {
-#javascript-intro.html
-{ 
-  background-color: darkred;
-}
-}
 
 #problem-solving.html 
-body {background-color: darkred;
-      text-align: center;
-      color: white}
-
+body {
+  background-color: darkred;
+  text-align: center;
+  color: white
+}
 p {
 color: white;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
