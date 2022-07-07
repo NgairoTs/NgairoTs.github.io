@@ -1,17 +1,24 @@
-@media only screen and (max-width: 600px) {
+/*320 - phone */
+@media only screen and (max-width: 320px) {
   body{
     background-color: darkred;
     font: 30px;
   }
 }
-
-@media only screen and (min-width: 600px) {
+/*768 - tablet*/
+@media only screen and (max-width: 768px) {
   body{
-    background-color: darkred;
+    background-color: rgb(61, 255, 2);
     font-size: 80px;
   }
 }
-
+/*1200 - laptop*/
+@media only screen and (max-width: 1200px) {
+  body{
+    background-color: rgb(2, 234, 255);
+    font-size: 100px;
+  }
+}
   html {
     min-height: 100%;
  }
